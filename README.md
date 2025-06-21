@@ -39,7 +39,10 @@
 ![Asana](https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white)
 ![SAP ECC/S4HANA](https://img.shields.io/badge/SAP%20ECC%2FS4HANA-%230091BD.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%23010101.svg?style=for-the-badge&logo=sap&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white)
+<span style="display: inline-block; background-color: #010101; color: white; padding: 6px 12px; border-radius: 6px; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+  SAP ABAP
+</span>
+
 
 
 
