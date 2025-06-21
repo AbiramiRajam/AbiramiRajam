@@ -1,81 +1,45 @@
-## Hi there 👋
+<h1 align="center"> Hello, 👋 I'm Abirami Rajamanickam</h1>
 
 
-# 🎯 SAP ETL Developer | AI & ML Engineer
+## 🎯 AI | Data Scientist | Data Engineer | Data Architect
 
-Welcome to my GitHub portfolio!
+- 😄 Pronouns: She/her
+- 👩‍💻 Currenlty exploring AI and LLMs while advancing my skills in Data Science through a Adobe Digital Academy Data Science bootcamp.
+- 🌱 I'm constantly learning new technologies and methodologies.
+- ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
+- 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
+- 📫 How to reach me: Check social links below.
 
-I specialize in SAP ETL development and Artificial Intelligence/Machine Learning engineering. With a deep understanding of enterprise data workflows and advanced analytics, I bridge the gap between traditional BI systems and modern AI-driven insights.
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
+![PySpark](https://img.shields.io/badge/PySpark-%23000000.svg?style=for-the-badge&logo=apachespark&logoColor=orange)
+![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-%234285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
 
-## 📚 PROFESSIONAL SUMMARY
+## 💳 Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirami-rajamanickam/) 
 
-Results-driven professional with experience in **SAP ETL development**, **business intelligence**, and **machine learning**. I bring a strong blend of analytical skills and technical knowledge to design scalable data solutions, build predictive models, and deliver actionable business insights.
-
-- Hands-on expertise in **SAP BW/BI, HANA, BODS**, and modern data tools like **Snowflake**, **PowerBI**, and **Tableau**
-- Proficient in **machine learning**, **deep learning**, **natural language processing**, and **large language models**
-- Strong foundation in **Python**, **SQL**, and data visualization
-- Experienced in project management methodologies including **Agile** and tools like **Jira**, **ServiceNow**, and **Solution Manager**
-
----
-
-## 🛠️ SKILLS
-
-### Programming & Data Science
-- **Languages & Tools**: Python, SQL, Pandas, NumPy
-- **Machine Learning**: Regression, Classification, Clustering, Decision Trees, Random Forests
-- **Deep Learning**: TensorFlow, Keras, PyTorch
-- **Natural Language Processing**: NLP, Transformers, LLMs
-- **Data Visualization**: Matplotlib, Seaborn, Tableau, PowerBI
-
-### ETL & BI Tools
-- **SAP Ecosystem**: SAP BW, BI, BO, HANA, BODS
-- **Cloud & DB**: Snowflake, Oracle
-- **Reporting**: Analysis for Office, Microstrategy
-
-### Project & Workflow Tools
-- **Project Management**: Asana, Jira, Agile, ServiceNow, Solution Manager
-- **Documentation & Design**: MS Office Suite (Word, Excel, PowerPoint), PDF, Canva
-- **Version Control & Security**: GitHub, Git
-- **ITSM Tools**: Incident, Change & Problem Management, CRM
-
----
-
-## 📂 PROJECTS
-
-### 1. 🧭 Predicting Top Honeymoon Destination Countries Using Travel and TravelHacks Reddit
-**Objective**: Classify subreddit posts and identify top and bottom honeymoon destinations using sentiment analysis and NLP.
-
-**Highlights**:
-- Scraped `r/travel` and `r/travelhacks` posts using Reddit API
-- Used spaCy NER + pycountry for location extraction
-- Applied VADER sentiment scoring by country
-- Trained ensemble Voting Classifier for subreddit classification (Accuracy: **86.5%**)
-- Visualized top 5 honeymoon countries based on sentiment
-
-➡️ [View Repository](https://github.com/AbiramiRajam/Python-Projects/tree/main/reddit-classification)
-
----
-
-### 2. 🏙️ Business Survival Analysis in San Francisco – Focused on Supervisor District 3 Funding  
-**Objective**: Predict business closures in San Francisco Supervisor District 3 using survival analysis to guide data-driven funding allocation decisions.
-
-**Highlights**:
-- Analyzed trends in business registrations and administrative closures
-- Applied survival analysis models to assess closure risk over time
-- Focused exclusively on District 3 for localized impact
-- Delivered actionable insights to inform city funding strategy and resource prioritization
-
-➡️ [View Repository](https://github.com/AbiramiRajam/Python-Projects/tree/main/survival-analysis)
-
----
-
-## 📫 LET'S CONNECT
-
-Feel free to reach out or explore my work here!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abirami-rajamanickam/)
-
----
 
