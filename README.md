@@ -2,7 +2,7 @@
 
 
 
-## 🎯 AI | Data Scientist | Data Engineer | Data Architect
+## 🎯 AI | Data Scientist | Data Engineer | Data Analyst
 
 - 🙋‍♀️ **Pronouns:** She/Her  
 - 🏆 **Accomplished hands-on AI and Data Science training** through Adobe Digital Academy.  
