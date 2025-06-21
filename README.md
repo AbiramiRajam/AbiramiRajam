@@ -1,14 +1,16 @@
 <h1 align="center"> Hello, 👋 I'm Abirami Rajamanickam</h1>
 
 
+
 ## 🎯 AI | Data Scientist | Data Engineer | Data Architect
 
-- 😄 Pronouns: She/her
-- 👩‍💻 Currenlty exploring AI and LLMs while advancing my skills in Data Science through a Adobe Digital Academy Data Science bootcamp.
-- 🌱 I'm constantly learning new technologies and methodologies.
-- ⚡ I thrive on solving complex problems and always look for new challenges to sharpen my skills.
-- 👯 I'm looking to colaborate with communities that empower underrespresented groups in tech.
-- 📫 How to reach me: Check social links below.
+- 🙋‍♀️ **Pronouns:** She/Her  
+- 🚀 **Actively exploring AI and Large Language Models**, while deepening my Data Science expertise through the Adobe Digital Academy bootcamp.  
+- 📚 **Dedicated to continuous growth**, embracing new tools, techniques, and ideas every day.  
+- 🧩 **Passionate about solving complex problems** and turning data into actionable insights.  
+- 📬 **Reach out anytime!** My social links are just below.
+
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
@@ -40,9 +42,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirami-rajamanickam/) 
 
 
+
 ## 📂 [![Projects](https://img.shields.io/badge/Projects-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
 
 
-Below is a selection of my **Data Science and Machine Learning Projects** that demonstrate hands-on experience with NLP, predictive modeling and machine learning modeling
+
 
 
