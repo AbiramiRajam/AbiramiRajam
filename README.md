@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**AbiramiRajam/AbiramiRajam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 🎯 SAP ETL Developer | AI & ML Engineer
 
@@ -81,7 +79,3 @@ Feel free to reach out or explore my work here!
 
 ---
 
-
-
-
--->
