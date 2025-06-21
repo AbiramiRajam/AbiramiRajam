@@ -40,8 +40,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirami-rajamanickam/) 
 
 
-## 📂 [![Projects](https://img.shields.io/badge/Projects-4CAF50?style=for-the-badge&logo=github&logoColor=white)]
-(https://github.com/AbiramiRajam/Python-Projects)
+## 📂 [![Projects](https://img.shields.io/badge/Projects-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
+
 
 Below is a selection of my **Data Science and Machine Learning Projects** that demonstrate hands-on experience with NLP, predictive modeling and machine learning modeling
 
