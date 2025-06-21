@@ -44,7 +44,7 @@
 
 
 ## 📂 Projects
-[![Github](https://img.shields.io/badge/Projects-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
 
 
 
