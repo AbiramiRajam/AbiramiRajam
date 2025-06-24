@@ -22,6 +22,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/MicroStrategy-red.svg?style=for-the-badge&logo=microstrategy&logoColor=white)
@@ -40,7 +41,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white)
 ![SAP ECC/S4HANA](https://img.shields.io/badge/SAP%20ECC%2FS4HANA-%230091BD.svg?style=for-the-badge&logo=sap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 
 
 
