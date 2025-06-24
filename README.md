@@ -16,7 +16,7 @@
 
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![PySpark](https://img.shields.io/badge/PySpark-%23000000.svg?style=for-the-badge&logo=apachespark&logoColor=orange)
-![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%23010101.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -40,7 +40,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white)
 ![SAP ECC/S4HANA](https://img.shields.io/badge/SAP%20ECC%2FS4HANA-%230091BD.svg?style=for-the-badge&logo=sap&logoColor=white)
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%23010101.svg?style=for-the-badge&logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 
 
 
