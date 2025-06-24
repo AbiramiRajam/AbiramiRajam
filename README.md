@@ -24,6 +24,7 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-red.svg?style=for-the-badge&logo=microstrategy&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
