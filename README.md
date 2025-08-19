@@ -44,13 +44,6 @@
 
 
 
-
-
-## 💳 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirami-rajamanickam/) 
-
-
-
 ## 📂 Projects
 [![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
 
