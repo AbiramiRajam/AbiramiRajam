@@ -44,18 +44,17 @@
 
 
 
-## 📂 Projects
-[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
+
 ## 📂 Projects
 
-[![Github](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
-[![Github](https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Gapminder-Analysis)
-[![Github](https://img.shields.io/badge/Github-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Reddit-Classification)
-[![Github](https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis)
-[![Github](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/AI_vs_Human_Text_Classifier)
+[![Github](https://img.shields.io/badge/Ames Housing Price Prediction-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
+[![Github](https://img.shields.io/badge/Gapminder Analysis-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Gapminder-Analysis)
+[![Github](https://img.shields.io/badge/Reddit Classification Problem-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Reddit-Classification)
+[![Github](https://img.shields.io/badge/San Francisco Business Survival Analysis-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis)
+[![Github](https://img.shields.io/badge/Ai Vs Human Text Classifier-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/AI_vs_Human_Text_Classifier)
 
-[![Github](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis-Dashboard)
-[![Github](https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Life-Style_Analytics-Dashboard)
+[![Github](https://img.shields.io/badge/San Francisco Business Registration Dashboard-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis-Dashboard)
+[![Github](https://img.shields.io/badge/Life Style Analytics Dashboard-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Life-Style_Analytics-Dashboard)
 
 
 
