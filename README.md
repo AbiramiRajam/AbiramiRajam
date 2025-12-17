@@ -47,7 +47,7 @@
 
 ## 📂 Projects
 
-[![Github](https://img.shields.io/badge/Ames Housing Price Prediction-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
+[![Github](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
 [![Github](https://img.shields.io/badge/Gapminder Analysis-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Gapminder-Analysis)
 [![Github](https://img.shields.io/badge/Reddit Classification Problem-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Reddit-Classification)
 [![Github](https://img.shields.io/badge/San Francisco Business Survival Analysis-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis)
