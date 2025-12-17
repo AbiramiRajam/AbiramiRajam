@@ -46,6 +46,17 @@
 
 ## 📂 Projects
 [![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Python-Projects)
+## 📂 Projects
+
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=green)](https://github.com/AbiramiRajam/Gapminder-Analysis)
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=red)](https://github.com/AbiramiRajam/Reddit-Classification)
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis)
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/AbiramiRajam/AI_vs_Human_Text_Classifier)
+
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis-Dashboard)
+[![Github](https://img.shields.io/badge/Github-%234CAF50.svg?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/AbiramiRajam/Life-Style_Analytics-Dashboard)
+
 
 
 
