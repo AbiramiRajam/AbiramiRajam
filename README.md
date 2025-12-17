@@ -49,7 +49,7 @@
 ## 📂 Projects
 
 [![Github](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
-[![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Gapminder-Analysis)
+[![Github](https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Gapminder-Analysis)
 [![Github](https://img.shields.io/badge/Github-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Reddit-Classification)
 [![Github](https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis)
 [![Github](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/AI_vs_Human_Text_Classifier)
