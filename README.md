@@ -19,6 +19,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-%23CC0000.svg?style=for-the-badge&logo=microstrategy&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300B5E2.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
