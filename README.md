@@ -4,11 +4,11 @@
 
 ## 🎯 AI | Data Scientist | Data Engineer | Data Analyst
 
-- 🙋‍♀️ **Pronouns:** She/Her  
+
 - 🏆 **Accomplished hands-on AI and Data Science training** through Adobe Digital Academy.  
 - 📚 **Dedicated to continuous growth**, embracing new tools, techniques, and ideas every day.  
 - 🧩 **Passionate about solving complex problems** and turning data into actionable insights.  
-- 📬 **Reach out anytime!** My social links are just below.
+
 
 
 
