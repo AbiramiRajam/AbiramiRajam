@@ -1,15 +1,12 @@
 <h1 align="center"> Hello, 👋 I'm Abirami Rajamanickam</h1>
 
 
-
 ## 🎯 AI | Data Scientist | Data Engineer | Data Analyst
-
 
 - 🏆 **Accomplished hands-on AI and Data Science training** through Adobe Digital Academy.  
 - 📚 **Dedicated to continuous growth**, embracing new tools, techniques, and ideas every day.  
 - 🧩 **Passionate about solving complex problems** and turning data into actionable insights.  
-
-
+- 🔗 **Check out my pinned repositories on GitHub** for my best work.
 
 
 ## Tech Stack
