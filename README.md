@@ -46,13 +46,8 @@
 
 
 ## 📂 Projects
-[![Github](https://img.shields.io/badge/Ames%20Housing%20Price%20Prediction-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Ames-Housing-Price-Prediction)
-[![Github](https://img.shields.io/badge/Gapminder%20Analysis-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Gapminder-Analysis)
-[![Github](https://img.shields.io/badge/Reddit%20Classification%20Problem-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Reddit-Classification)
-[![Github](https://img.shields.io/badge/San%20Francisco%20Business%20Survival%20Analysis-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis)
-[![Github](https://img.shields.io/badge/Ai%20Vs%20Human%20Text%20Classifier-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/AI_vs_Human_Text_Classifier)
 
-[![Github](https://img.shields.io/badge/San%20Francisco%20Business%20Registration%20Dashboard-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/SFO-Business-Registration-Analysis-Dashboard)
+[![Github](https://img.shields.io/badge/Job%20Recommendation%20Aggregation%20Tool%20-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/job_recommendation_aggregation_tool)
 [![Github](https://img.shields.io/badge/Life%20Style%20Analytics%20Dashboard-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbiramiRajam/Life-Style_Analytics-Dashboard)
 
 
