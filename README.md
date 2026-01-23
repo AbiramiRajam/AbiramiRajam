@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![SAP BI/BO](https://img.shields.io/badge/SAP%20BI%2FBO-%23010101.svg?style=for-the-badge&logo=sap&logoColor=white)
-![SAP ECC/BW4HANA](https://img.shields.io/badge/SAP%20BW%2F4HANA-%23013243.svg?style=for-the-badge&logo=sap&logoColor=white)
+![SAP ECC/BW4HANA](https://img.shields.io/badge/SAP%20ECC-BW%2F4HANA-%23013243.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/SAP%20Native%20HANA-%230091BD.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white)
